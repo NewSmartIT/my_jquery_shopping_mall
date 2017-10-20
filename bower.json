@@ -1,0 +1,27 @@
+{
+  "name": "flaticon-travel",
+  "version": "1.0.0",
+  "authors": [
+    "flaticon icon"
+  ],
+  "description": "flaticon travel css",
+  "main": [
+    "flaticon-travel-icons.css"
+  ],
+  "keywords": [
+    "flaticon-travel",
+    "icon"
+  ],
+  "license": [
+    "MIT",
+    "GPL2.0"
+  ],
+  "homepage": "http://www.flaticon-travel.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
